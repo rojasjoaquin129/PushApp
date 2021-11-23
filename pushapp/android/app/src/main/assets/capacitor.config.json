@@ -1,0 +1,6 @@
+{
+	"appId": "com.comandaionic.tpcomandaapp",
+	"appName": "pushapp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
